@@ -1,0 +1,19 @@
+{
+  "name": "t3a2_fullstackapp",
+  "version": "1.0.0",
+  "description": "Task Management MERN Project for Aperture Science",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
