@@ -1,8 +1,14 @@
-# Aperture Science Webpage and Task Management System
+# Aperture Science Task Management System
+
+<br>
+
+<p align="center">
+  <img title="Aperture Science Logo" alt="Aperture Science Logo" src="https://combineoverwiki.net/images/thumb/f/f0/Aperture_Science_grey.svg/250px-Aperture_Science_grey.svg.png">
+</p>
 
 ## Description
 
-This app is a task management app to replace an outdated post-it note system
+This app is a task management app to replace an outdated post-it note system for the entity Aperture Science, Inc.
 
 ### Purpose
 
@@ -14,7 +20,12 @@ The app will provide a robust front facing web page that reflects that of the co
 
 ### Target audience
 
-Aperture Science Incorporated, formally Aperture Fittings a shower curtain manufacturer, has evolved and moved into the realm of experimental physics research institution and as such they need to replace their archaic post-it note task management system. ASI CEO Cave Johnson has commissioned a modernised app that will provide an elegant and efficient solution to their project tasking needs.
+Aperture Science Incorporated, formally Aperture Fittings a shower curtain manufacturer, has evolved and moved into the realm of experimental physics research institution and as such they need to replace their archaic post-it note task management system. ASI CEO Cave Johnson has commissioned a modernised app that will provide an elegant and efficient solution to their project tasking needs and be reflective of his companies' values and 3 pillars.
+
+#### Aperture Science 3 Pillars:
+- Pillar one: Science without results is just witchcraft.
+- Pillar two: Get results or you're fired.
+- Pillar three: if you suspect a coworker of bein' a witch, report them immediately. I cannot stress that enough. Witchcraft will not be tolerated.
 
 ### Tech stack
 
@@ -25,7 +36,11 @@ Aperture Science Incorporated, formally Aperture Fittings a shower curtain manuf
 
 ##	Dataflow Diagram
 
+Here is my dataflow diagram
+
 ##	Application Architecture Diagram
+
+here is architecture
 
 ##	User Stories
 
