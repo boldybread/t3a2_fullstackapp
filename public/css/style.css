@@ -20,3 +20,15 @@ body {
     text-align: center;
     padding: 1rem;
 }
+
+img {
+    filter: grayscale();
+    width: 40%;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+img:hover {
+    filter: none;
+    width: 35%;
+    transform: rotate(30deg);
+}
