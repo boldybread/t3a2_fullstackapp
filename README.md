@@ -37,7 +37,7 @@ Aperture Science Incorporated, formally Aperture Fittings a shower curtain manuf
 
 ## Dataflow Diagram
 
-Here is my dataflow diagram, earlier in the lesson
+![Dataflow Diagram](img\dataflowdiagram.jpg "Dataflow Diagram")
 
 ## Application Architecture Diagram
 
