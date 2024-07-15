@@ -22,7 +22,7 @@ The app will provide a robust front facing web page that reflects that of the co
 
 Aperture Science Incorporated, formally Aperture Fittings a shower curtain manufacturer, has evolved and moved into the realm of experimental physics research institution and as such they need to replace their archaic post-it note task management system. ASI CEO Cave Johnson has commissioned a modernised app that will provide an elegant and efficient solution to their project tasking needs and be reflective of his companies' values and 3 pillars.
 
-#### Aperture Science 3 Pillars:
+#### Aperture Science 3 Pillars
 
 - Pillar one: Science without results is just witchcraft.
 - Pillar two: Get results or you're fired.
@@ -120,4 +120,14 @@ For multiple standard screen sizes, created using industry standard software
 
 ## Trello Board
 
-Screenshots of your Trello board throughout the duration of the project
+![Trello Project 1](img\TrelloPicture1.png "Trello Project 1")
+
+![Trello Project 3](img\TrelloPicture3.png "Trello Project 3")
+
+![Trello Project 2](img\TrelloPicture2.png "Trello Project 2")
+
+![Trello Project 4](img\TrelloPicture4.png "Trello Project 4")
+
+![Trello Project 5](img\TrelloPicture5.png "Trello Project 5")
+
+![Trello Project 6](img\TrelloPicture6.png "Trello Project 6")
