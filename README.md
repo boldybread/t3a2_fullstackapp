@@ -12,7 +12,7 @@ This app is a task management app to replace an outdated post-it note system for
 
 ### Purpose
 
-The app will provide a public facing webpage that will allow for employee login, roles to be assigned with corresponding privilieges and allow the employees to access the task management system, interacting with it appropriately based on their level of priviliges.
+The app will provide a public facing webpage that will allow for employee login, roles to be assigned with corresponding privileges and allow the employees to access the task management system, interacting with it appropriately based on their level of priviliges.
 
 ### Functionality / features
 
@@ -148,14 +148,14 @@ I used Balsamiq for my wireframes.
 
 ## Trello Board
 
-![Trello Project 1](img\TrelloPicture1.png "Trello Project 1")
+![Trello Project 1](.\img\TrelloPicture1.png "Trello Project 1")
 
-![Trello Project 3](img\TrelloPicture3.png "Trello Project 3")
+![Trello Project 3](.\img\TrelloPicture3.png "Trello Project 3")
 
-![Trello Project 2](img\TrelloPicture2.png "Trello Project 2")
+![Trello Project 2](.\img\TrelloPicture2.png "Trello Project 2")
 
-![Trello Project 4](img\TrelloPicture4.png "Trello Project 4")
+![Trello Project 4](.\img\TrelloPicture4.png "Trello Project 4")
 
-![Trello Project 5](img\TrelloPicture5.png "Trello Project 5")
+![Trello Project 5](.\img\TrelloPicture5.png "Trello Project 5")
 
-![Trello Project 6](img\TrelloPicture6.png "Trello Project 6")
+![Trello Project 6](.\img\TrelloPicture6.png "Trello Project 6")
