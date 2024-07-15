@@ -41,7 +41,7 @@ Here is my dataflow diagram, earlier in the lesson
 
 ## Application Architecture Diagram
 
-here is architecture
+![Application Architecture Diagram](img\AppArchDiagram.jpg "Application Architecture Diagram")
 
 ## User Stories
 
