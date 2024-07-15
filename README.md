@@ -148,14 +148,14 @@ I used Balsamiq for my wireframes.
 
 ## Trello Board
 
-![Trello Project 1](.\img\TrelloPicture1.png "Trello Project 1")
+![Trello Project 1](..\img\TrelloPicture1.png "Trello Project 1")
 
-![Trello Project 3](.\img\TrelloPicture3.png "Trello Project 3")
+![Trello Project 3](..\img\TrelloPicture3.png "Trello Project 3")
 
-![Trello Project 2](.\img\TrelloPicture2.png "Trello Project 2")
+![Trello Project 2](..\img\TrelloPicture2.png "Trello Project 2")
 
-![Trello Project 4](.\img\TrelloPicture4.png "Trello Project 4")
+![Trello Project 4](..\img\TrelloPicture4.png "Trello Project 4")
 
-![Trello Project 5](.\img\TrelloPicture5.png "Trello Project 5")
+![Trello Project 5](..\img\TrelloPicture5.png "Trello Project 5")
 
-![Trello Project 6](.\img\TrelloPicture6.png "Trello Project 6")
+![Trello Project 6](../img\TrelloPicture6.png "Trello Project 6")
