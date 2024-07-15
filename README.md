@@ -8,19 +8,19 @@
 
 ## Description
 
-This app is a task management app to replace an outdated post-it note system for the entity Aperture Science, Inc.
+This application is a task management system to replace an outdated post-it note system for the entity Aperture Science, Inc.
 
 ### Purpose
 
-The app will provide a public facing webpage that will allow for employee login, roles to be assigned with corresponding privileges and allow the employees to access the task management system, interacting with it appropriately based on their level of priviliges.
+The application will provide a public facing webpage that will allow for employee login, roles to be assigned with corresponding privileges and allow the employees to access the task management system, interacting with it appropriately based on their level of privileges.
 
 ### Functionality / features
 
-The app will provide a robust front facing web page that reflects that of the companies values. It will feature an employee login that will assign priviliges to the user to determine level of access. It will allow users to create/edit/delete/assign tasks depending on their level of privilige. It will be feature a responsive design that will allow the webpage to be displayed appropriately on different common screen sizes.
+The application will provide a robust front facing web page that reflects that of the companies' values. It will feature an employee login that will assign privileges to the user to determine level of access. It will allow users to create/edit/delete/assign tasks depending on their level of privilege. It will feature a responsive design that will allow the webpage to be displayed appropriately on different common screen sizes.
 
 ### Target audience
 
-Aperture Science Incorporated, formally Aperture Fittings a shower curtain manufacturer, has evolved and moved into the realm of experimental physics research institution and as such they need to replace their archaic post-it note task management system. ASI CEO Cave Johnson has commissioned a modernised app that will provide an elegant and efficient solution to their project tasking needs and be reflective of his companies' values and 3 pillars.
+Aperture Science Incorporated, formally Aperture Fittings a shower curtain manufacturer, has evolved and moved into the realm of experimental physics research institution and as such they need to replace their archaic post-it note task management system. Aperture Science CEO Cave Johnson has commissioned a modernised application that will provide an elegant and efficient solution to their project tasking needs and be reflective of his companies' values and 3 pillars.
 
 #### Aperture Science 3 Pillars
 
@@ -37,11 +37,11 @@ Aperture Science Incorporated, formally Aperture Fittings a shower curtain manuf
 
 ## Dataflow Diagram
 
-![Dataflow Diagram](img\dataflowdiagram.jpg "Dataflow Diagram")
+![Dataflow Diagram](./img/dataflowdiagram.jpg "Dataflow Diagram")
 
 ## Application Architecture Diagram
 
-![Application Architecture Diagram](img\AppArchDiagram.jpg "Application Architecture Diagram")
+![Application Architecture Diagram](./img/AppArchDiagram.jpg "Application Architecture Diagram")
 
 ## User Stories
 
@@ -58,16 +58,21 @@ UPDATE: Notes should be assigned to whichever employee is completing task
 
 ### Doug Rattmann - Programmer and Technician
 
-Employees should be separated into Employees and Managers, managers have higher priviliges
+Employees should be separated into Employees and Managers, managers have higher privileges
 
 UPDATE: Employees, Managers and Admin needed
 
-- Managers and admins should have higher priviliges than employee role
+- Managers and admins should have higher privileges than employee role
 
 ### Henry - Technician
 
 - I want notes to be able to be assigned to individuals
 - Everyone should be able to access notes
+- Only Managers should create notes
+
+UPDATE: Everyone should be able to create notes
+
+- All users once signed in should be able to create notes
 
 ### Caroline - Admin
 
@@ -77,11 +82,12 @@ UPDATE: Employees, Managers and Admin needed
 
 UPDATE: app should be usable on other screen sizes but prioritise desktop
 
-- app should be responsive
+- app should be responsive, prioritising desktop
 
 ### GLaDOS - Researcher
 
 - I want to make sure employees are logging in and not exploiting this work from home malarkey
+- Website must be secure, users will need to be authorised before they can see anything of importance other than the front facing website
 
 ### Wheatley - HR
 
@@ -89,9 +95,9 @@ UPDATE: app should be usable on other screen sizes but prioritise desktop
 
 ### Consolidated Tasks based off User Stories
 
-- Replace current sticky note system
+- Replace current post-it note system
 - Add a public facing page with basic contact info
-- Add an employee login to the notes app
+- Add an employee login to the app
 - Provide a welcome page after login
 - Provide easy navigation
 - Display current user and assigned role
@@ -106,7 +112,8 @@ UPDATE: app should be usable on other screen sizes but prioritise desktop
 
 - Users can be Employees, Managers, or Admins
 - Notes can only be deleted by Managers or Admins
-- Anyone can create a note (when customer checks-in)
+~~Only managers can create notes~~
+- Anyone can create a note
 - Employees can only view and edit their assigned notes  
 - Managers and Admins can view, edit, and delete all notes
 - Only Managers and Admins can access User Settings
@@ -115,8 +122,6 @@ UPDATE: app should be usable on other screen sizes but prioritise desktop
 - Must be responsive and accessible different screensizes, but primarily designed for desktop
 
 ## Wireframes
-
-I used Balsamiq for my wireframes.
 
 ### Homepage
 
