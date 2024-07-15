@@ -116,7 +116,35 @@ UPDATE: app should be usable on other screen sizes but prioritise desktop
 
 ## Wireframes
 
-For multiple standard screen sizes, created using industry standard software
+I used Balsamiq for my wireframes.
+
+### Homepage
+
+![Homepage](https://share.balsamiq.com/c/cLrbwy41MUrUksWkY6spi9.png)
+
+### Login
+
+![Login](https://share.balsamiq.com/c/6DHbEDy1tLiH9uhyf3CqNt.png)
+
+### Dashboard
+
+![Dashboard](https://share.balsamiq.com/c/rzzQLegCB8mVGiGnWEi71w.png)
+
+### View Tasks
+
+![View Tasks](https://share.balsamiq.com/c/4pvM5YgF5aRfddWW3TkQsa.png)
+
+### New Tasks
+
+![New Tasks](https://share.balsamiq.com/c/5L53DSQw4BmNBxQ2kdhf2x.png)
+
+### Employees
+
+![Employees](https://share.balsamiq.com/c/96Btw1hQyvWZ7Eio9BfjA4.png)
+
+### New User
+
+![New User](https://share.balsamiq.com/c/fAR9Y5qGWdxEiXBMzfJpvP.png)
 
 ## Trello Board
 
