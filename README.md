@@ -109,7 +109,6 @@ UPDATE: app should be usable on other screen sizes but prioritise desktop
 - Notes have a ticket #, title, note body, created & updated dates
 - Notes are either OPEN or COMPLETED
 - ~~Users can be Employees or Managers~~
-
 - Users can be Employees, Managers, or Admins
 - Notes can only be deleted by Managers or Admins
 ~~Only managers can create notes~~
