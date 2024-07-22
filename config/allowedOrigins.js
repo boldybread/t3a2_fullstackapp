@@ -1,10 +1,5 @@
 const allowedOrigins = [
-    'https://aperturescience.onrender.com/',
-    'https://aperturescience-api.onrender.com/',
-    'https://aperturescience-api.onrender.com/auth',
-    Access-Control-Allow-Origin: *
+    'https://aperturescience.onrender.com'
 ]
 
-Access-Control-Allow-Origin: *
-
-module.exports = allowedOrigins;
+module.exports = allowedOrigins
