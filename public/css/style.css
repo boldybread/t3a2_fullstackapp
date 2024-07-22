@@ -12,8 +12,12 @@ html {
 }
 
 body {
-    min-height: 100vh;
+    height: 100vh;
+    width: 100vw;
+    max-width: 768px;
+    max-height: 1024px;
     background-color: #000;
+    background-repeat: no-repeat;
     color: whitesmoke;
     display: grid;
     place-content: center;
