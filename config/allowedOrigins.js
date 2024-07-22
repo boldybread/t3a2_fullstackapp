@@ -1,6 +1,7 @@
 const allowedOrigins = [
     'https://aperturescience.onrender.com/',
     'https://aperturescience-api.onrender.com/',
+    'https://aperturescience-api.onrender.com/auth',
     Access-Control-Allow-Origin
 ]
 
