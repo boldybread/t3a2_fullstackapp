@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://aperturescience.netlify.app/'
+    'https://aperturescience.onrender.com/'
 ]
 
 module.exports = allowedOrigins
