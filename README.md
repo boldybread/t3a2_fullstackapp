@@ -2,11 +2,21 @@
 
 ## Links
 
-Frontend Deployment - [aperturescience.onrender.com] (https://aperturescience.onrender.com)
-Repo - [github.com/boldybread/aperture-frontend] (https://github.com/boldybread/aperture-frontend)
+### Frontend Deployment
 
-Backend Deployment - [aperturescience-api.onrender.com] (https://aperturescience-api.onrender.com)
-Repo - [github.com/boldybread/t3a2_fullstackapp] (https://github.com/boldybread/t3a2_fullstackapp)
+[aperturescience.onrender.com] (https://aperturescience.onrender.com)
+
+### Frontent Repository
+
+[github.com/boldybread/aperture-frontend] (https://github.com/boldybread/aperture-frontend)
+
+### Backend Deployment
+
+[aperturescience-api.onrender.com] (https://aperturescience-api.onrender.com)
+
+### Backend Repository
+
+[github.com/boldybread/t3a2_fullstackapp] (https://github.com/boldybread/t3a2_fullstackapp)
 <br>
 
 <p align="center">
