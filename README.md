@@ -1,8 +1,11 @@
 # Aperture Science Task Management System
 
+<br>
+
 <p align="center">
   <img title="Aperture Science Logo" alt="Aperture Science Logo" src="https://combineoverwiki.net/images/thumb/f/f0/Aperture_Science_grey.svg/250px-Aperture_Science_grey.svg.png">
 </p>
+
 <br>
 
 ## Links
@@ -180,3 +183,7 @@ UPDATE: app should be usable on other screen sizes but prioritise desktop
 ![Trello Project 5](./img/TrelloPicture5.png "Trello Project 5")
 
 ![Trello Project 6](./img/TrelloPicture6.png "Trello Project 6")
+
+## Testing
+
+
