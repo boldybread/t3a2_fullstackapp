@@ -1,27 +1,27 @@
 # Aperture Science Task Management System
 
+<p align="center">
+  <img title="Aperture Science Logo" alt="Aperture Science Logo" src="https://combineoverwiki.net/images/thumb/f/f0/Aperture_Science_grey.svg/250px-Aperture_Science_grey.svg.png">
+</p>
+<br>
+
 ## Links
 
 ### Frontend Deployment
 
-[aperturescience.onrender.com] (https://aperturescience.onrender.com)
+(https://aperturescience.onrender.com)
 
 ### Frontent Repository
 
-[github.com/boldybread/aperture-frontend] (https://github.com/boldybread/aperture-frontend)
+(https://github.com/boldybread/aperture-frontend)
 
 ### Backend Deployment
 
-[aperturescience-api.onrender.com] (https://aperturescience-api.onrender.com)
+(https://aperturescience-api.onrender.com)
 
 ### Backend Repository
 
-[github.com/boldybread/t3a2_fullstackapp] (https://github.com/boldybread/t3a2_fullstackapp)
-<br>
-
-<p align="center">
-  <img title="Aperture Science Logo" alt="Aperture Science Logo" src="https://combineoverwiki.net/images/thumb/f/f0/Aperture_Science_grey.svg/250px-Aperture_Science_grey.svg.png">
-</p>
+(https://github.com/boldybread/t3a2_fullstackapp)
 
 ## Description
 
