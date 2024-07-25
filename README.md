@@ -9,19 +9,19 @@
 
 ### Frontend Deployment
 
-(https://aperturescience.onrender.com)
+https://aperturescience.onrender.com
 
 ### Frontent Repository
 
-(https://github.com/boldybread/aperture-frontend)
+https://github.com/boldybread/aperture-frontend
 
 ### Backend Deployment
 
-(https://aperturescience-api.onrender.com)
+https://aperturescience-api.onrender.com
 
 ### Backend Repository
 
-(https://github.com/boldybread/t3a2_fullstackapp)
+https://github.com/boldybread/t3a2_fullstackapp
 
 ## Description
 
