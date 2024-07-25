@@ -186,4 +186,13 @@ UPDATE: app should be usable on other screen sizes but prioritise desktop
 
 ## Testing
 
+Details for testing login:
+
+- MANAGER - Username: Brad Password: !123456
+
+- ADMIN - Username: Brad Password: !123456
+
+- EMPLOYEE - Username: Luke Password: !123456
+
+Employee could only see Task Management System and add new tasks, could not edit users or edit tasks.
 
