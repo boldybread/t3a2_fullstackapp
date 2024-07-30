@@ -186,13 +186,44 @@ UPDATE: app should be usable on other screen sizes but prioritise desktop
 
 ## Testing
 
+[Youtube testing recording](https://www.youtube.com/)
+
 Details for testing login:
 
-- MANAGER - Username: Brad Password: !123456
+### MANAGER
 
-- ADMIN - Username: Brad Password: !123456
+### Username: Brad // Password: !123456
 
-- EMPLOYEE - Username: Luke Password: !123456
+- Manager was able to:
 
-Employee could only see Task Management System and add new tasks, could not edit users or edit tasks.
+  - Create, delete and edit new user
+  - See all menu options
+  - View all tasks
+  - Add, edit and delete tasks
 
+### ADMIN
+
+### Username: Caroline // Password: !123456
+
+- Admin role was able to:
+
+  - Create, delete and edit new user
+  - See all menu options
+  - View all tasks
+  - Add, edit and delete tasks
+
+### EMPLOYEE
+
+### Username: Luke // Password: !123456
+
+- Employee role was able to:
+
+  - Create, delete and edit new user
+  - See only task management system & Add new task menus
+  - View only tasks assigned to themselves
+  - Add or edit new tasks assigned to themselves
+
+- Employee role unable to:
+
+  - Delete tasks
+  - See all menu options
