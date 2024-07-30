@@ -184,6 +184,7 @@ UPDATE: app should be usable on other screen sizes but prioritise desktop
 
 ![Trello Project 6](./img/TrelloPicture6.png "Trello Project 6")
 
+<<<<<<< Updated upstream
 ## Testing
 
 [Youtube testing recording](https://www.youtube.com/)
@@ -227,3 +228,5 @@ Details for testing login:
 
   - Delete tasks
   - See all menu options
+=======
+>>>>>>> Stashed changes
