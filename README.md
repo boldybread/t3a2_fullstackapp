@@ -12,19 +12,23 @@
 
 ### Frontend Deployment
 
-https://aperturescience.onrender.com
+[aperturescience](https://aperturescience.onrender.com)
 
 ### Frontent Repository
 
-https://github.com/boldybread/aperture-frontend
+[aperture-frontend](https://github.com/boldybread/aperture-frontend)
 
 ### Backend Deployment
 
-https://aperturescience-api.onrender.com
+[aperturescience-api](https://aperturescience-api.onrender.com)
 
 ### Backend Repository
 
-https://github.com/boldybread/t3a2_fullstackapp
+[t3a2_fullstackapp](https://github.com/boldybread/t3a2_fullstackapp)
+
+### Testing Recording
+
+[Youtube recording](https://youtu.be/-GyrATw71Rs)
 
 ## Description
 
@@ -63,7 +67,7 @@ Aperture Science Incorporated, formally Aperture Fittings a shower curtain manuf
 
 ![Application Architecture Diagram](./img/AppArchDiagram.jpg "Application Architecture Diagram")
 
-## User Stories
+## User Personas
 
 ### Cave Johnson - Founder and CEO
 
@@ -113,7 +117,7 @@ UPDATE: app should be usable on other screen sizes but prioritise desktop
 
 - Only Managers and admin roles should be able to access settings or create new users
 
-### Consolidated Tasks based off User Stories
+## User Stories based of User Personas
 
 - Replace current post-it note system
 - Add a public facing page with basic contact info
@@ -184,10 +188,9 @@ UPDATE: app should be usable on other screen sizes but prioritise desktop
 
 ![Trello Project 6](./img/TrelloPicture6.png "Trello Project 6")
 
-<<<<<<< Updated upstream
 ## Testing
 
-[Youtube testing recording](https://www.youtube.com/)
+[Youtube testing recording](https://youtu.be/-GyrATw71Rs)
 
 Details for testing login:
 
@@ -228,5 +231,3 @@ Details for testing login:
 
   - Delete tasks
   - See all menu options
-=======
->>>>>>> Stashed changes
